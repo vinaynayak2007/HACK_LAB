@@ -1,1 +1,8 @@
-
+🔹 Basic File & Directory Commands
+    ls → List files and directories
+    pwd → Show current directory path
+    cd <dir> → Change directory
+    mkdir <name> → Create a new directory
+    rmdir <name> → Remove empty directory
+    rm <file> → Delete file
+    rm -r <dir> → Delete directory recursively
