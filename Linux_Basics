@@ -1,4 +1,5 @@
 🔹 Basic File & Directory Commands
+
     ls → List files and directories
     pwd → Show current directory path
     cd <dir> → Change directory
@@ -6,3 +7,23 @@
     rmdir <name> → Remove empty directory
     rm <file> → Delete file
     rm -r <dir> → Delete directory recursively
+
+
+🔹 File Viewing & Editing
+
+  cat <file> → Display file contents
+  less <file> → View file page by page
+  nano <file> → Open simple text editor
+  touch <file> → Create empty file
+
+
+🔹 File Management
+
+  cp <src> <dest> → Copy files
+  mv <src> <dest> → Move or rename files
+  chmod → Change file permissions
+  chown → Change file ownership
+
+
+
+
