@@ -24,6 +24,34 @@
   chmod → Change file permissions
   chown → Change file ownership
 
+🔹 System & Process Commands
 
+  top → View running processes (live)
+  ps → Show current processes
+  kill <PID> → Stop a process
+  df -h → Show disk usage
+  free -h → Show memory usage
+
+🔹Networking Commands
+
+ping <host> → Test network connection
+ifconfig / ip addr → Show network info
+wget <url> → Download files from internet
+curl <url> → Fetch data from a URL
+
+🔹 Package Management (varies by distro)
+   On Ubuntu / Debian:
+       sudo apt update
+       sudo apt install <package>
+
+    On Fedora / CentOS:
+        sudo dnf update
+        sudo dnf install <package>
+
+🔹 Helpful Tips
+   Use man <command> to read the manual
+   Use --help with most commands for quick usage
+   Press Tab for auto-completion
+   Use arrow keys to navigate command history
 
 
